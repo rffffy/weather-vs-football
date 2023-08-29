@@ -8,21 +8,19 @@ The repository is organized as follows:
 
 - **data_extractors**: This directory holds the scripts responsible for fetching data from the APIs.
   - **common**: Contains utility functions shared across data extractors.
-    - `utils.py`: Reusable utility functions for data extraction.
+    - [**utils.py**](data_extractors/common/utils.py): Reusable utility functions for data extraction.
   - **premier_league**: Extracts data premier league data from the football-data API.
-    - `pl_extractor.py`: Extracts Premier League match and team information for the 2022/2023 season.
+    - [**pl_extractor.py**](data_extractors/premier_league/pl_extractor.py): Extracts Premier League match and team information for the 2022/2023 season.
   - **weather**: Fetches weather data from the Visual Crossing weather API.
-    - `weather_extractor.py`: Fetches weather data for specified locations.
+    - [**weather_extractor.py**](data_extractors/weather/weather_extractor.py): Fetches weather data for specified locations.
 
 - **resources**: Houses essential resources for the project.
   - `.env`: Configuration file for environment variables.
   - **data**: Repository for storing generated CSV files.
 
-- `extractor.py`: Script to initiate data extraction from various data_extractors.
-- `upload_csv_to_redshift.py`: Script to upload CSV files to an Amazon Redshift cluster.
-- `Analysis.ipynb`: Jupyter notebook for conducting data analysis.
-
-- `.gitignore`: Specifies files/folders to be ignored by version control.
+- [**extractor.py**](extractor.py): Script to initiate data extraction from various data_extractors.
+- [**upload_csv_to_redshift.py**](upload_csv_to_redshift.py): Script to upload CSV files to an Amazon Redshift cluster.
+- [**Analysis.ipynb**](Analysis.ipynb): Jupyter notebook for conducting data analysis.
 
 ## 🔍 Data Extraction
 The heart of this project lies in data extraction. Two public APIs were chosen to source our data:
