@@ -1,7 +1,6 @@
 .DS_Store
 .ipynb_checkpoints/
 Untitled.ipynb
-resources/
 venv/
 __pycache__/
 weather_data.csv

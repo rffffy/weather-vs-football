@@ -15,7 +15,6 @@ The repository is organized as follows:
     - [**weather_extractor.py**](data_extractors/weather/weather_extractor.py): Fetches weather data for specified locations.
 
 - **resources**: Houses essential resources for the project.
-  - `.env`: Configuration file for environment variables.
   - **data**: Repository for storing generated CSV files.
 
 - [**extractor.py**](extractor.py): Script to initiate data extraction from various data_extractors.

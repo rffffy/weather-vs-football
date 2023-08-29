@@ -1,0 +1,381 @@
+id,date,status,home_team_id,home_team_name,away_team_id,away_team_name,winner_name,ft_score_away_team,ft_score_home_team
+416384,2022-08-05,FINISHED,354,Crystal Palace FC,57,Arsenal FC,Arsenal FC,2,0
+416383,2022-08-06,FINISHED,63,Fulham FC,64,Liverpool FC,DRAW,2,2
+416378,2022-08-06,FINISHED,73,Tottenham Hotspur FC,340,Southampton FC,Tottenham Hotspur FC,1,4
+416379,2022-08-06,FINISHED,67,Newcastle United FC,351,Nottingham Forest FC,Newcastle United FC,0,2
+416381,2022-08-06,FINISHED,341,Leeds United FC,76,Wolverhampton Wanderers FC,Leeds United FC,1,2
+416382,2022-08-06,FINISHED,1044,AFC Bournemouth,58,Aston Villa FC,AFC Bournemouth,0,2
+416377,2022-08-06,FINISHED,62,Everton FC,61,Chelsea FC,Chelsea FC,1,0
+416376,2022-08-07,FINISHED,66,Manchester United FC,397,Brighton & Hove Albion FC,Brighton & Hove Albion FC,2,1
+416380,2022-08-07,FINISHED,338,Leicester City FC,402,Brentford FC,DRAW,2,2
+416375,2022-08-07,FINISHED,563,West Ham United FC,65,Manchester City FC,Manchester City FC,2,0
+416373,2022-08-13,FINISHED,58,Aston Villa FC,62,Everton FC,Aston Villa FC,1,2
+416365,2022-08-13,FINISHED,76,Wolverhampton Wanderers FC,63,Fulham FC,DRAW,0,0
+416366,2022-08-13,FINISHED,340,Southampton FC,341,Leeds United FC,DRAW,2,2
+416368,2022-08-13,FINISHED,65,Manchester City FC,1044,AFC Bournemouth,Manchester City FC,0,4
+416371,2022-08-13,FINISHED,397,Brighton & Hove Albion FC,67,Newcastle United FC,DRAW,0,0
+416374,2022-08-13,FINISHED,57,Arsenal FC,338,Leicester City FC,Arsenal FC,2,4
+416372,2022-08-13,FINISHED,402,Brentford FC,66,Manchester United FC,Brentford FC,0,4
+416367,2022-08-14,FINISHED,351,Nottingham Forest FC,563,West Ham United FC,Nottingham Forest FC,0,1
+416370,2022-08-14,FINISHED,61,Chelsea FC,73,Tottenham Hotspur FC,DRAW,2,2
+416369,2022-08-15,FINISHED,64,Liverpool FC,354,Crystal Palace FC,DRAW,1,1
+416356,2022-08-20,FINISHED,73,Tottenham Hotspur FC,76,Wolverhampton Wanderers FC,Tottenham Hotspur FC,0,1
+416359,2022-08-20,FINISHED,338,Leicester City FC,340,Southampton FC,Southampton FC,2,1
+416361,2022-08-20,FINISHED,63,Fulham FC,402,Brentford FC,Fulham FC,2,3
+416362,2022-08-20,FINISHED,62,Everton FC,351,Nottingham Forest FC,DRAW,1,1
+416363,2022-08-20,FINISHED,354,Crystal Palace FC,58,Aston Villa FC,Crystal Palace FC,1,3
+416364,2022-08-20,FINISHED,1044,AFC Bournemouth,57,Arsenal FC,Arsenal FC,3,0
+416355,2022-08-21,FINISHED,563,West Ham United FC,397,Brighton & Hove Albion FC,Brighton & Hove Albion FC,2,0
+416360,2022-08-21,FINISHED,341,Leeds United FC,61,Chelsea FC,Leeds United FC,0,3
+416357,2022-08-21,FINISHED,67,Newcastle United FC,65,Manchester City FC,DRAW,3,3
+416358,2022-08-22,FINISHED,66,Manchester United FC,64,Liverpool FC,Manchester United FC,1,2
+416346,2022-08-27,FINISHED,340,Southampton FC,66,Manchester United FC,Manchester United FC,1,0
+416348,2022-08-27,FINISHED,65,Manchester City FC,354,Crystal Palace FC,Manchester City FC,2,4
+416349,2022-08-27,FINISHED,64,Liverpool FC,1044,AFC Bournemouth,Liverpool FC,0,9
+416350,2022-08-27,FINISHED,61,Chelsea FC,338,Leicester City FC,Chelsea FC,1,2
+416351,2022-08-27,FINISHED,397,Brighton & Hove Albion FC,341,Leeds United FC,Brighton & Hove Albion FC,0,1
+416352,2022-08-27,FINISHED,402,Brentford FC,62,Everton FC,DRAW,1,1
+416354,2022-08-27,FINISHED,57,Arsenal FC,63,Fulham FC,Arsenal FC,1,2
+416345,2022-08-28,FINISHED,76,Wolverhampton Wanderers FC,67,Newcastle United FC,DRAW,1,1
+416353,2022-08-28,FINISHED,58,Aston Villa FC,563,West Ham United FC,West Ham United FC,1,0
+416347,2022-08-28,FINISHED,351,Nottingham Forest FC,73,Tottenham Hotspur FC,Tottenham Hotspur FC,2,0
+416338,2022-08-30,FINISHED,354,Crystal Palace FC,402,Brentford FC,DRAW,1,1
+416342,2022-08-30,FINISHED,63,Fulham FC,397,Brighton & Hove Albion FC,Fulham FC,1,2
+416337,2022-08-30,FINISHED,340,Southampton FC,61,Chelsea FC,Southampton FC,1,2
+416341,2022-08-30,FINISHED,341,Leeds United FC,62,Everton FC,DRAW,1,1
+416335,2022-08-31,FINISHED,65,Manchester City FC,351,Nottingham Forest FC,Manchester City FC,0,6
+416343,2022-08-31,FINISHED,1044,AFC Bournemouth,76,Wolverhampton Wanderers FC,DRAW,0,0
+416344,2022-08-31,FINISHED,57,Arsenal FC,58,Aston Villa FC,Arsenal FC,1,2
+416339,2022-08-31,FINISHED,563,West Ham United FC,73,Tottenham Hotspur FC,DRAW,1,1
+416336,2022-08-31,FINISHED,64,Liverpool FC,67,Newcastle United FC,Liverpool FC,1,2
+416340,2022-09-01,FINISHED,338,Leicester City FC,66,Manchester United FC,Manchester United FC,1,0
+416330,2022-09-03,FINISHED,62,Everton FC,64,Liverpool FC,DRAW,0,0
+416325,2022-09-03,FINISHED,76,Wolverhampton Wanderers FC,340,Southampton FC,Wolverhampton Wanderers FC,0,1
+416326,2022-09-03,FINISHED,73,Tottenham Hotspur FC,63,Fulham FC,Tottenham Hotspur FC,1,2
+416327,2022-09-03,FINISHED,351,Nottingham Forest FC,1044,AFC Bournemouth,AFC Bournemouth,3,2
+416328,2022-09-03,FINISHED,67,Newcastle United FC,354,Crystal Palace FC,DRAW,0,0
+416331,2022-09-03,FINISHED,61,Chelsea FC,563,West Ham United FC,Chelsea FC,1,2
+416333,2022-09-03,FINISHED,402,Brentford FC,341,Leeds United FC,Brentford FC,2,5
+416334,2022-09-03,FINISHED,58,Aston Villa FC,65,Manchester City FC,DRAW,1,1
+416332,2022-09-04,FINISHED,397,Brighton & Hove Albion FC,338,Leicester City FC,Brighton & Hove Albion FC,2,5
+416329,2022-09-04,FINISHED,66,Manchester United FC,57,Arsenal FC,Manchester United FC,1,3
+416307,2022-09-16,FINISHED,351,Nottingham Forest FC,63,Fulham FC,Fulham FC,3,2
+416314,2022-09-16,FINISHED,58,Aston Villa FC,340,Southampton FC,Aston Villa FC,0,1
+416305,2022-09-17,FINISHED,76,Wolverhampton Wanderers FC,65,Manchester City FC,Manchester City FC,3,0
+416308,2022-09-17,FINISHED,67,Newcastle United FC,1044,AFC Bournemouth,DRAW,1,1
+416306,2022-09-17,FINISHED,73,Tottenham Hotspur FC,338,Leicester City FC,Tottenham Hotspur FC,2,6
+416313,2022-09-18,FINISHED,402,Brentford FC,57,Arsenal FC,Arsenal FC,3,0
+416310,2022-09-18,FINISHED,62,Everton FC,563,West Ham United FC,Everton FC,0,1
+416304,2022-10-01,FINISHED,57,Arsenal FC,73,Tottenham Hotspur FC,Arsenal FC,1,3
+416296,2022-10-01,FINISHED,340,Southampton FC,62,Everton FC,Everton FC,2,1
+416298,2022-10-01,FINISHED,64,Liverpool FC,397,Brighton & Hove Albion FC,DRAW,3,3
+416301,2022-10-01,FINISHED,63,Fulham FC,67,Newcastle United FC,Newcastle United FC,4,1
+416302,2022-10-01,FINISHED,354,Crystal Palace FC,61,Chelsea FC,Chelsea FC,2,1
+416303,2022-10-01,FINISHED,1044,AFC Bournemouth,402,Brentford FC,DRAW,0,0
+416295,2022-10-01,FINISHED,563,West Ham United FC,76,Wolverhampton Wanderers FC,West Ham United FC,0,2
+416297,2022-10-02,FINISHED,65,Manchester City FC,66,Manchester United FC,Manchester City FC,3,6
+416300,2022-10-02,FINISHED,341,Leeds United FC,58,Aston Villa FC,DRAW,0,0
+416299,2022-10-03,FINISHED,338,Leicester City FC,351,Nottingham Forest FC,Leicester City FC,0,4
+416287,2022-10-08,FINISHED,67,Newcastle United FC,402,Brentford FC,Newcastle United FC,1,5
+416288,2022-10-08,FINISHED,65,Manchester City FC,340,Southampton FC,Manchester City FC,0,4
+416291,2022-10-08,FINISHED,61,Chelsea FC,76,Wolverhampton Wanderers FC,Chelsea FC,0,3
+416293,2022-10-08,FINISHED,1044,AFC Bournemouth,338,Leicester City FC,AFC Bournemouth,1,2
+416292,2022-10-08,FINISHED,397,Brighton & Hove Albion FC,73,Tottenham Hotspur FC,Tottenham Hotspur FC,1,0
+416285,2022-10-09,FINISHED,563,West Ham United FC,63,Fulham FC,West Ham United FC,1,3
+416290,2022-10-09,FINISHED,354,Crystal Palace FC,341,Leeds United FC,Crystal Palace FC,1,2
+416294,2022-10-09,FINISHED,57,Arsenal FC,64,Liverpool FC,Arsenal FC,2,3
+416289,2022-10-09,FINISHED,62,Everton FC,66,Manchester United FC,Manchester United FC,2,1
+416286,2022-10-10,FINISHED,351,Nottingham Forest FC,58,Aston Villa FC,DRAW,1,1
+416283,2022-10-14,FINISHED,402,Brentford FC,397,Brighton & Hove Albion FC,Brentford FC,0,2
+416280,2022-10-15,FINISHED,338,Leicester City FC,354,Crystal Palace FC,DRAW,0,0
+416275,2022-10-15,FINISHED,76,Wolverhampton Wanderers FC,351,Nottingham Forest FC,Wolverhampton Wanderers FC,0,1
+416282,2022-10-15,FINISHED,63,Fulham FC,1044,AFC Bournemouth,DRAW,2,2
+416276,2022-10-15,FINISHED,73,Tottenham Hotspur FC,62,Everton FC,Tottenham Hotspur FC,0,2
+416277,2022-10-16,FINISHED,340,Southampton FC,563,West Ham United FC,DRAW,1,1
+416278,2022-10-16,FINISHED,66,Manchester United FC,67,Newcastle United FC,DRAW,0,0
+416281,2022-10-16,FINISHED,341,Leeds United FC,57,Arsenal FC,Arsenal FC,1,0
+416284,2022-10-16,FINISHED,58,Aston Villa FC,61,Chelsea FC,Chelsea FC,2,0
+416279,2022-10-16,FINISHED,64,Liverpool FC,65,Manchester City FC,Liverpool FC,0,1
+416271,2022-10-18,FINISHED,397,Brighton & Hove Albion FC,351,Nottingham Forest FC,DRAW,0,0
+416268,2022-10-18,FINISHED,354,Crystal Palace FC,76,Wolverhampton Wanderers FC,Crystal Palace FC,1,2
+416266,2022-10-19,FINISHED,64,Liverpool FC,563,West Ham United FC,Liverpool FC,0,1
+416267,2022-10-19,FINISHED,67,Newcastle United FC,62,Everton FC,Newcastle United FC,0,1
+416272,2022-10-19,FINISHED,402,Brentford FC,61,Chelsea FC,DRAW,0,0
+416273,2022-10-19,FINISHED,1044,AFC Bournemouth,340,Southampton FC,Southampton FC,1,0
+416265,2022-10-19,FINISHED,66,Manchester United FC,73,Tottenham Hotspur FC,Manchester United FC,0,2
+416270,2022-10-20,FINISHED,63,Fulham FC,58,Aston Villa FC,Fulham FC,0,3
+416269,2022-10-20,FINISHED,338,Leicester City FC,341,Leeds United FC,Leicester City FC,0,2
+416259,2022-10-22,FINISHED,351,Nottingham Forest FC,64,Liverpool FC,Nottingham Forest FC,0,1
+416260,2022-10-22,FINISHED,65,Manchester City FC,397,Brighton & Hove Albion FC,Manchester City FC,1,3
+416262,2022-10-22,FINISHED,62,Everton FC,354,Crystal Palace FC,Everton FC,0,3
+416263,2022-10-22,FINISHED,61,Chelsea FC,66,Manchester United FC,DRAW,1,1
+416258,2022-10-23,FINISHED,340,Southampton FC,57,Arsenal FC,DRAW,1,1
+416261,2022-10-23,FINISHED,341,Leeds United FC,63,Fulham FC,Fulham FC,3,2
+416264,2022-10-23,FINISHED,58,Aston Villa FC,402,Brentford FC,Aston Villa FC,0,4
+416255,2022-10-23,FINISHED,76,Wolverhampton Wanderers FC,338,Leicester City FC,Leicester City FC,4,0
+416257,2022-10-23,FINISHED,73,Tottenham Hotspur FC,67,Newcastle United FC,Newcastle United FC,2,1
+416256,2022-10-24,FINISHED,563,West Ham United FC,1044,AFC Bournemouth,West Ham United FC,0,2
+416248,2022-10-29,FINISHED,338,Leicester City FC,65,Manchester City FC,Manchester City FC,1,0
+416245,2022-10-29,FINISHED,67,Newcastle United FC,58,Aston Villa FC,Newcastle United FC,0,4
+416250,2022-10-29,FINISHED,354,Crystal Palace FC,340,Southampton FC,Crystal Palace FC,0,1
+416251,2022-10-29,FINISHED,397,Brighton & Hove Albion FC,61,Chelsea FC,Brighton & Hove Albion FC,1,4
+416252,2022-10-29,FINISHED,402,Brentford FC,76,Wolverhampton Wanderers FC,DRAW,1,1
+416253,2022-10-29,FINISHED,1044,AFC Bournemouth,73,Tottenham Hotspur FC,Tottenham Hotspur FC,3,2
+416249,2022-10-29,FINISHED,63,Fulham FC,62,Everton FC,DRAW,0,0
+416247,2022-10-29,FINISHED,64,Liverpool FC,341,Leeds United FC,Leeds United FC,2,1
+416254,2022-10-30,FINISHED,57,Arsenal FC,351,Nottingham Forest FC,Arsenal FC,0,5
+416246,2022-10-30,FINISHED,66,Manchester United FC,563,West Ham United FC,Manchester United FC,0,1
+416235,2022-11-05,FINISHED,76,Wolverhampton Wanderers FC,397,Brighton & Hove Albion FC,Brighton & Hove Albion FC,3,2
+416239,2022-11-05,FINISHED,351,Nottingham Forest FC,402,Brentford FC,DRAW,2,2
+416240,2022-11-05,FINISHED,65,Manchester City FC,63,Fulham FC,Manchester City FC,1,2
+416241,2022-11-05,FINISHED,341,Leeds United FC,1044,AFC Bournemouth,Leeds United FC,3,4
+416242,2022-11-05,FINISHED,62,Everton FC,338,Leicester City FC,Leicester City FC,2,0
+416243,2022-11-06,FINISHED,61,Chelsea FC,57,Arsenal FC,Arsenal FC,1,0
+416236,2022-11-06,FINISHED,563,West Ham United FC,354,Crystal Palace FC,Crystal Palace FC,2,1
+416238,2022-11-06,FINISHED,340,Southampton FC,67,Newcastle United FC,Newcastle United FC,4,1
+416244,2022-11-06,FINISHED,58,Aston Villa FC,66,Manchester United FC,Aston Villa FC,1,3
+416237,2022-11-06,FINISHED,73,Tottenham Hotspur FC,64,Liverpool FC,Liverpool FC,2,1
+416230,2022-11-12,FINISHED,65,Manchester City FC,402,Brentford FC,Brentford FC,2,1
+416226,2022-11-12,FINISHED,563,West Ham United FC,338,Leicester City FC,Leicester City FC,2,0
+416227,2022-11-12,FINISHED,73,Tottenham Hotspur FC,341,Leeds United FC,Tottenham Hotspur FC,3,4
+416228,2022-11-12,FINISHED,351,Nottingham Forest FC,354,Crystal Palace FC,Nottingham Forest FC,0,1
+416231,2022-11-12,FINISHED,64,Liverpool FC,340,Southampton FC,Liverpool FC,1,3
+416234,2022-11-12,FINISHED,1044,AFC Bournemouth,62,Everton FC,AFC Bournemouth,0,3
+416229,2022-11-12,FINISHED,67,Newcastle United FC,61,Chelsea FC,Newcastle United FC,0,1
+416225,2022-11-12,FINISHED,76,Wolverhampton Wanderers FC,57,Arsenal FC,Arsenal FC,2,0
+416233,2022-11-13,FINISHED,397,Brighton & Hove Albion FC,58,Aston Villa FC,Aston Villa FC,2,1
+416232,2022-11-13,FINISHED,63,Fulham FC,66,Manchester United FC,Manchester United FC,2,1
+416222,2022-12-26,FINISHED,402,Brentford FC,73,Tottenham Hotspur FC,DRAW,2,2
+416215,2022-12-26,FINISHED,340,Southampton FC,397,Brighton & Hove Albion FC,Brighton & Hove Albion FC,3,1
+416217,2022-12-26,FINISHED,338,Leicester City FC,67,Newcastle United FC,Newcastle United FC,3,0
+416219,2022-12-26,FINISHED,62,Everton FC,76,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,2,1
+416220,2022-12-26,FINISHED,354,Crystal Palace FC,63,Fulham FC,Fulham FC,3,0
+416223,2022-12-26,FINISHED,58,Aston Villa FC,64,Liverpool FC,Liverpool FC,3,1
+416224,2022-12-26,FINISHED,57,Arsenal FC,563,West Ham United FC,Arsenal FC,1,3
+416221,2022-12-27,FINISHED,61,Chelsea FC,1044,AFC Bournemouth,Chelsea FC,0,2
+416216,2022-12-27,FINISHED,66,Manchester United FC,351,Nottingham Forest FC,Manchester United FC,0,3
+416218,2022-12-28,FINISHED,341,Leeds United FC,65,Manchester City FC,Manchester City FC,3,1
+416206,2022-12-30,FINISHED,563,West Ham United FC,402,Brentford FC,Brentford FC,2,0
+416211,2022-12-30,FINISHED,64,Liverpool FC,338,Leicester City FC,Liverpool FC,1,2
+416205,2022-12-31,FINISHED,76,Wolverhampton Wanderers FC,66,Manchester United FC,Manchester United FC,1,0
+416209,2022-12-31,FINISHED,67,Newcastle United FC,341,Leeds United FC,DRAW,0,0
+416210,2022-12-31,FINISHED,65,Manchester City FC,62,Everton FC,DRAW,1,1
+416212,2022-12-31,FINISHED,63,Fulham FC,340,Southampton FC,Fulham FC,1,2
+416214,2022-12-31,FINISHED,1044,AFC Bournemouth,354,Crystal Palace FC,Crystal Palace FC,2,0
+416213,2022-12-31,FINISHED,397,Brighton & Hove Albion FC,57,Arsenal FC,Arsenal FC,4,2
+416207,2023-01-01,FINISHED,73,Tottenham Hotspur FC,58,Aston Villa FC,Aston Villa FC,2,0
+416208,2023-01-01,FINISHED,351,Nottingham Forest FC,61,Chelsea FC,DRAW,1,1
+416202,2023-01-02,FINISHED,402,Brentford FC,64,Liverpool FC,Brentford FC,1,3
+416197,2023-01-03,FINISHED,338,Leicester City FC,63,Fulham FC,Fulham FC,1,0
+416199,2023-01-03,FINISHED,62,Everton FC,397,Brighton & Hove Albion FC,Brighton & Hove Albion FC,4,1
+416204,2023-01-03,FINISHED,57,Arsenal FC,67,Newcastle United FC,DRAW,0,0
+416196,2023-01-03,FINISHED,66,Manchester United FC,1044,AFC Bournemouth,Manchester United FC,0,3
+416195,2023-01-04,FINISHED,340,Southampton FC,351,Nottingham Forest FC,Nottingham Forest FC,1,0
+416198,2023-01-04,FINISHED,341,Leeds United FC,563,West Ham United FC,DRAW,2,2
+416200,2023-01-04,FINISHED,354,Crystal Palace FC,73,Tottenham Hotspur FC,Tottenham Hotspur FC,4,0
+416203,2023-01-04,FINISHED,58,Aston Villa FC,76,Wolverhampton Wanderers FC,DRAW,1,1
+416201,2023-01-05,FINISHED,61,Chelsea FC,65,Manchester City FC,Manchester City FC,1,0
+416321,2023-01-12,FINISHED,63,Fulham FC,61,Chelsea FC,Fulham FC,1,2
+416194,2023-01-13,FINISHED,58,Aston Villa FC,341,Leeds United FC,Aston Villa FC,1,2
+416189,2023-01-14,FINISHED,66,Manchester United FC,65,Manchester City FC,Manchester United FC,1,2
+416185,2023-01-14,FINISHED,76,Wolverhampton Wanderers FC,563,West Ham United FC,Wolverhampton Wanderers FC,0,1
+416187,2023-01-14,FINISHED,351,Nottingham Forest FC,338,Leicester City FC,Nottingham Forest FC,0,2
+416190,2023-01-14,FINISHED,62,Everton FC,340,Southampton FC,Southampton FC,2,1
+416192,2023-01-14,FINISHED,397,Brighton & Hove Albion FC,64,Liverpool FC,Brighton & Hove Albion FC,0,3
+416193,2023-01-14,FINISHED,402,Brentford FC,1044,AFC Bournemouth,Brentford FC,0,2
+416188,2023-01-15,FINISHED,67,Newcastle United FC,63,Fulham FC,Newcastle United FC,0,1
+416191,2023-01-15,FINISHED,61,Chelsea FC,354,Crystal Palace FC,Chelsea FC,0,1
+416186,2023-01-15,FINISHED,73,Tottenham Hotspur FC,57,Arsenal FC,Arsenal FC,2,0
+416322,2023-01-18,FINISHED,354,Crystal Palace FC,66,Manchester United FC,DRAW,1,1
+416317,2023-01-19,FINISHED,65,Manchester City FC,73,Tottenham Hotspur FC,Manchester City FC,2,4
+416178,2023-01-21,FINISHED,64,Liverpool FC,61,Chelsea FC,DRAW,0,0
+416175,2023-01-21,FINISHED,563,West Ham United FC,62,Everton FC,West Ham United FC,0,2
+416176,2023-01-21,FINISHED,340,Southampton FC,58,Aston Villa FC,Aston Villa FC,1,0
+416179,2023-01-21,FINISHED,338,Leicester City FC,397,Brighton & Hove Albion FC,DRAW,2,2
+416183,2023-01-21,FINISHED,1044,AFC Bournemouth,351,Nottingham Forest FC,DRAW,1,1
+416182,2023-01-21,FINISHED,354,Crystal Palace FC,67,Newcastle United FC,DRAW,0,0
+416177,2023-01-22,FINISHED,65,Manchester City FC,76,Wolverhampton Wanderers FC,Manchester City FC,0,3
+416180,2023-01-22,FINISHED,341,Leeds United FC,402,Brentford FC,DRAW,0,0
+416184,2023-01-22,FINISHED,57,Arsenal FC,66,Manchester United FC,Arsenal FC,2,3
+416181,2023-01-23,FINISHED,63,Fulham FC,73,Tottenham Hotspur FC,Tottenham Hotspur FC,1,0
+416171,2023-02-03,FINISHED,61,Chelsea FC,63,Fulham FC,DRAW,0,0
+416170,2023-02-04,FINISHED,62,Everton FC,57,Arsenal FC,Everton FC,0,1
+416165,2023-02-04,FINISHED,76,Wolverhampton Wanderers FC,64,Liverpool FC,Wolverhampton Wanderers FC,0,3
+416169,2023-02-04,FINISHED,66,Manchester United FC,354,Crystal Palace FC,Manchester United FC,1,2
+416172,2023-02-04,FINISHED,397,Brighton & Hove Albion FC,1044,AFC Bournemouth,Brighton & Hove Albion FC,0,1
+416173,2023-02-04,FINISHED,402,Brentford FC,340,Southampton FC,Brentford FC,0,3
+416174,2023-02-04,FINISHED,58,Aston Villa FC,338,Leicester City FC,Leicester City FC,4,2
+416168,2023-02-04,FINISHED,67,Newcastle United FC,563,West Ham United FC,DRAW,1,1
+416167,2023-02-05,FINISHED,351,Nottingham Forest FC,341,Leeds United FC,Nottingham Forest FC,0,1
+416166,2023-02-05,FINISHED,73,Tottenham Hotspur FC,65,Manchester City FC,Tottenham Hotspur FC,0,1
+416309,2023-02-08,FINISHED,66,Manchester United FC,341,Leeds United FC,DRAW,2,2
+416155,2023-02-11,FINISHED,563,West Ham United FC,61,Chelsea FC,DRAW,1,1
+416156,2023-02-11,FINISHED,340,Southampton FC,76,Wolverhampton Wanderers FC,Wolverhampton Wanderers FC,2,1
+416159,2023-02-11,FINISHED,338,Leicester City FC,73,Tottenham Hotspur FC,Leicester City FC,1,4
+416161,2023-02-11,FINISHED,63,Fulham FC,351,Nottingham Forest FC,Fulham FC,0,2
+416162,2023-02-11,FINISHED,354,Crystal Palace FC,397,Brighton & Hove Albion FC,DRAW,1,1
+416164,2023-02-11,FINISHED,57,Arsenal FC,402,Brentford FC,DRAW,1,1
+416163,2023-02-11,FINISHED,1044,AFC Bournemouth,67,Newcastle United FC,DRAW,1,1
+416160,2023-02-12,FINISHED,341,Leeds United FC,66,Manchester United FC,Manchester United FC,2,0
+416157,2023-02-12,FINISHED,65,Manchester City FC,58,Aston Villa FC,Manchester City FC,1,3
+416158,2023-02-13,FINISHED,64,Liverpool FC,62,Everton FC,Liverpool FC,0,2
+416274,2023-02-15,FINISHED,57,Arsenal FC,65,Manchester City FC,Manchester City FC,3,1
+416154,2023-02-18,FINISHED,58,Aston Villa FC,57,Arsenal FC,Arsenal FC,4,2
+416145,2023-02-18,FINISHED,76,Wolverhampton Wanderers FC,1044,AFC Bournemouth,AFC Bournemouth,1,0
+416147,2023-02-18,FINISHED,351,Nottingham Forest FC,65,Manchester City FC,DRAW,1,1
+416150,2023-02-18,FINISHED,62,Everton FC,341,Leeds United FC,Everton FC,0,1
+416151,2023-02-18,FINISHED,61,Chelsea FC,340,Southampton FC,Southampton FC,1,0
+416152,2023-02-18,FINISHED,397,Brighton & Hove Albion FC,63,Fulham FC,Fulham FC,1,0
+416153,2023-02-18,FINISHED,402,Brentford FC,354,Crystal Palace FC,DRAW,1,1
+416148,2023-02-18,FINISHED,67,Newcastle United FC,64,Liverpool FC,Liverpool FC,2,0
+416149,2023-02-19,FINISHED,66,Manchester United FC,338,Leicester City FC,Manchester United FC,0,3
+416146,2023-02-19,FINISHED,73,Tottenham Hotspur FC,563,West Ham United FC,Tottenham Hotspur FC,0,2
+416141,2023-02-24,FINISHED,63,Fulham FC,76,Wolverhampton Wanderers FC,DRAW,1,1
+416135,2023-02-25,FINISHED,563,West Ham United FC,351,Nottingham Forest FC,West Ham United FC,0,4
+416139,2023-02-25,FINISHED,338,Leicester City FC,57,Arsenal FC,Arsenal FC,1,0
+416140,2023-02-25,FINISHED,341,Leeds United FC,340,Southampton FC,Leeds United FC,0,1
+416142,2023-02-25,FINISHED,62,Everton FC,58,Aston Villa FC,Aston Villa FC,2,0
+416144,2023-02-25,FINISHED,1044,AFC Bournemouth,65,Manchester City FC,Manchester City FC,4,1
+416143,2023-02-25,FINISHED,354,Crystal Palace FC,64,Liverpool FC,DRAW,0,0
+416136,2023-02-26,FINISHED,73,Tottenham Hotspur FC,61,Chelsea FC,Tottenham Hotspur FC,0,2
+416324,2023-03-01,FINISHED,57,Arsenal FC,62,Everton FC,Arsenal FC,0,4
+416318,2023-03-01,FINISHED,64,Liverpool FC,76,Wolverhampton Wanderers FC,Liverpool FC,0,2
+416128,2023-03-04,FINISHED,65,Manchester City FC,67,Newcastle United FC,Manchester City FC,0,2
+416125,2023-03-04,FINISHED,76,Wolverhampton Wanderers FC,73,Tottenham Hotspur FC,Wolverhampton Wanderers FC,0,1
+416130,2023-03-04,FINISHED,61,Chelsea FC,341,Leeds United FC,Chelsea FC,0,1
+416131,2023-03-04,FINISHED,397,Brighton & Hove Albion FC,563,West Ham United FC,Brighton & Hove Albion FC,0,4
+416133,2023-03-04,FINISHED,58,Aston Villa FC,354,Crystal Palace FC,Aston Villa FC,0,1
+416134,2023-03-04,FINISHED,57,Arsenal FC,1044,AFC Bournemouth,Arsenal FC,2,3
+416126,2023-03-04,FINISHED,340,Southampton FC,338,Leicester City FC,Southampton FC,0,1
+416127,2023-03-05,FINISHED,351,Nottingham Forest FC,62,Everton FC,DRAW,2,2
+416129,2023-03-05,FINISHED,64,Liverpool FC,66,Manchester United FC,Liverpool FC,0,7
+416132,2023-03-06,FINISHED,402,Brentford FC,63,Fulham FC,Brentford FC,2,3
+416124,2023-03-11,FINISHED,1044,AFC Bournemouth,64,Liverpool FC,AFC Bournemouth,0,1
+416116,2023-03-11,FINISHED,73,Tottenham Hotspur FC,351,Nottingham Forest FC,Tottenham Hotspur FC,1,3
+416119,2023-03-11,FINISHED,338,Leicester City FC,61,Chelsea FC,Chelsea FC,3,1
+416120,2023-03-11,FINISHED,341,Leeds United FC,397,Brighton & Hove Albion FC,DRAW,2,2
+416122,2023-03-11,FINISHED,62,Everton FC,402,Brentford FC,Everton FC,0,1
+416123,2023-03-11,FINISHED,354,Crystal Palace FC,65,Manchester City FC,Manchester City FC,1,0
+416115,2023-03-12,FINISHED,563,West Ham United FC,58,Aston Villa FC,DRAW,1,1
+416118,2023-03-12,FINISHED,66,Manchester United FC,340,Southampton FC,DRAW,0,0
+416121,2023-03-12,FINISHED,63,Fulham FC,57,Arsenal FC,Arsenal FC,3,0
+416117,2023-03-12,FINISHED,67,Newcastle United FC,76,Wolverhampton Wanderers FC,Newcastle United FC,1,2
+416312,2023-03-15,FINISHED,397,Brighton & Hove Albion FC,354,Crystal Palace FC,Brighton & Hove Albion FC,0,1
+416316,2023-03-15,FINISHED,340,Southampton FC,402,Brentford FC,Brentford FC,2,0
+416107,2023-03-17,FINISHED,351,Nottingham Forest FC,67,Newcastle United FC,Newcastle United FC,2,1
+416105,2023-03-18,FINISHED,76,Wolverhampton Wanderers FC,341,Leeds United FC,Leeds United FC,4,2
+416106,2023-03-18,FINISHED,340,Southampton FC,73,Tottenham Hotspur FC,DRAW,3,3
+416112,2023-03-18,FINISHED,402,Brentford FC,338,Leicester City FC,DRAW,1,1
+416113,2023-03-18,FINISHED,58,Aston Villa FC,1044,AFC Bournemouth,Aston Villa FC,0,3
+416110,2023-03-18,FINISHED,61,Chelsea FC,62,Everton FC,DRAW,2,2
+416114,2023-03-19,FINISHED,57,Arsenal FC,354,Crystal Palace FC,Arsenal FC,1,4
+416098,2023-04-01,FINISHED,65,Manchester City FC,64,Liverpool FC,Manchester City FC,1,4
+416096,2023-04-01,FINISHED,351,Nottingham Forest FC,76,Wolverhampton Wanderers FC,DRAW,1,1
+416100,2023-04-01,FINISHED,354,Crystal Palace FC,338,Leicester City FC,Crystal Palace FC,1,2
+416102,2023-04-01,FINISHED,397,Brighton & Hove Albion FC,402,Brentford FC,DRAW,3,3
+416103,2023-04-01,FINISHED,1044,AFC Bournemouth,63,Fulham FC,AFC Bournemouth,1,2
+416104,2023-04-01,FINISHED,57,Arsenal FC,341,Leeds United FC,Arsenal FC,1,4
+416101,2023-04-01,FINISHED,61,Chelsea FC,58,Aston Villa FC,Aston Villa FC,2,0
+416095,2023-04-02,FINISHED,563,West Ham United FC,340,Southampton FC,West Ham United FC,0,1
+416097,2023-04-02,FINISHED,67,Newcastle United FC,66,Manchester United FC,Newcastle United FC,0,2
+416099,2023-04-03,FINISHED,62,Everton FC,73,Tottenham Hotspur FC,DRAW,1,1
+416319,2023-04-04,FINISHED,338,Leicester City FC,58,Aston Villa FC,Aston Villa FC,2,1
+416320,2023-04-04,FINISHED,341,Leeds United FC,351,Nottingham Forest FC,Leeds United FC,1,2
+416323,2023-04-04,FINISHED,1044,AFC Bournemouth,397,Brighton & Hove Albion FC,Brighton & Hove Albion FC,2,0
+416311,2023-04-04,FINISHED,61,Chelsea FC,64,Liverpool FC,DRAW,0,0
+416315,2023-04-05,FINISHED,563,West Ham United FC,67,Newcastle United FC,Newcastle United FC,5,1
+416138,2023-04-05,FINISHED,66,Manchester United FC,402,Brentford FC,Manchester United FC,0,1
+416088,2023-04-08,FINISHED,66,Manchester United FC,62,Everton FC,Manchester United FC,0,2
+416085,2023-04-08,FINISHED,76,Wolverhampton Wanderers FC,61,Chelsea FC,Wolverhampton Wanderers FC,0,1
+416086,2023-04-08,FINISHED,73,Tottenham Hotspur FC,397,Brighton & Hove Albion FC,Tottenham Hotspur FC,1,2
+416090,2023-04-08,FINISHED,338,Leicester City FC,1044,AFC Bournemouth,AFC Bournemouth,1,0
+416092,2023-04-08,FINISHED,63,Fulham FC,563,West Ham United FC,West Ham United FC,1,0
+416093,2023-04-08,FINISHED,402,Brentford FC,67,Newcastle United FC,Newcastle United FC,2,1
+416094,2023-04-08,FINISHED,58,Aston Villa FC,351,Nottingham Forest FC,Aston Villa FC,0,2
+416087,2023-04-08,FINISHED,340,Southampton FC,65,Manchester City FC,Manchester City FC,4,1
+416091,2023-04-09,FINISHED,341,Leeds United FC,354,Crystal Palace FC,Crystal Palace FC,5,1
+416089,2023-04-09,FINISHED,64,Liverpool FC,57,Arsenal FC,DRAW,2,2
+416084,2023-04-15,FINISHED,58,Aston Villa FC,67,Newcastle United FC,Aston Villa FC,0,3
+416075,2023-04-15,FINISHED,76,Wolverhampton Wanderers FC,402,Brentford FC,Wolverhampton Wanderers FC,0,2
+416078,2023-04-15,FINISHED,340,Southampton FC,354,Crystal Palace FC,Crystal Palace FC,2,0
+416082,2023-04-15,FINISHED,62,Everton FC,63,Fulham FC,Fulham FC,3,1
+416083,2023-04-15,FINISHED,61,Chelsea FC,397,Brighton & Hove Albion FC,Brighton & Hove Albion FC,2,1
+416077,2023-04-15,FINISHED,73,Tottenham Hotspur FC,1044,AFC Bournemouth,AFC Bournemouth,3,2
+416080,2023-04-15,FINISHED,65,Manchester City FC,338,Leicester City FC,Manchester City FC,1,3
+416076,2023-04-16,FINISHED,563,West Ham United FC,57,Arsenal FC,DRAW,2,2
+416079,2023-04-16,FINISHED,351,Nottingham Forest FC,66,Manchester United FC,Manchester United FC,2,0
+416081,2023-04-17,FINISHED,341,Leeds United FC,64,Liverpool FC,Liverpool FC,6,1
+416074,2023-04-21,FINISHED,57,Arsenal FC,340,Southampton FC,DRAW,3,3
+416069,2023-04-22,FINISHED,63,Fulham FC,341,Leeds United FC,Fulham FC,1,2
+416067,2023-04-22,FINISHED,64,Liverpool FC,351,Nottingham Forest FC,Liverpool FC,2,3
+416068,2023-04-22,FINISHED,338,Leicester City FC,76,Wolverhampton Wanderers FC,Leicester City FC,1,2
+416070,2023-04-22,FINISHED,354,Crystal Palace FC,62,Everton FC,DRAW,0,0
+416072,2023-04-22,FINISHED,402,Brentford FC,58,Aston Villa FC,DRAW,1,1
+416065,2023-04-23,FINISHED,67,Newcastle United FC,73,Tottenham Hotspur FC,Newcastle United FC,1,6
+416073,2023-04-23,FINISHED,1044,AFC Bournemouth,563,West Ham United FC,West Ham United FC,4,0
+416059,2023-04-25,FINISHED,76,Wolverhampton Wanderers FC,354,Crystal Palace FC,Wolverhampton Wanderers FC,0,2
+416058,2023-04-25,FINISHED,58,Aston Villa FC,63,Fulham FC,Aston Villa FC,0,1
+416063,2023-04-25,FINISHED,341,Leeds United FC,338,Leicester City FC,DRAW,1,1
+416062,2023-04-26,FINISHED,351,Nottingham Forest FC,397,Brighton & Hove Albion FC,Nottingham Forest FC,1,3
+416057,2023-04-26,FINISHED,61,Chelsea FC,402,Brentford FC,Brentford FC,2,0
+416060,2023-04-26,FINISHED,563,West Ham United FC,64,Liverpool FC,Liverpool FC,2,1
+416055,2023-04-26,FINISHED,65,Manchester City FC,57,Arsenal FC,Manchester City FC,1,4
+416056,2023-04-27,FINISHED,340,Southampton FC,1044,AFC Bournemouth,AFC Bournemouth,1,0
+416064,2023-04-27,FINISHED,62,Everton FC,67,Newcastle United FC,Newcastle United FC,4,1
+416061,2023-04-27,FINISHED,73,Tottenham Hotspur FC,66,Manchester United FC,DRAW,2,2
+416050,2023-04-29,FINISHED,354,Crystal Palace FC,563,West Ham United FC,Crystal Palace FC,3,4
+416051,2023-04-29,FINISHED,397,Brighton & Hove Albion FC,76,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,0,6
+416052,2023-04-29,FINISHED,402,Brentford FC,351,Nottingham Forest FC,Brentford FC,1,2
+416045,2023-04-30,FINISHED,67,Newcastle United FC,340,Southampton FC,Newcastle United FC,1,3
+416046,2023-04-30,FINISHED,66,Manchester United FC,58,Aston Villa FC,Manchester United FC,0,1
+416049,2023-04-30,FINISHED,63,Fulham FC,65,Manchester City FC,Manchester City FC,2,1
+416053,2023-04-30,FINISHED,1044,AFC Bournemouth,341,Leeds United FC,AFC Bournemouth,1,4
+416047,2023-04-30,FINISHED,64,Liverpool FC,73,Tottenham Hotspur FC,Liverpool FC,3,4
+416048,2023-05-01,FINISHED,338,Leicester City FC,62,Everton FC,DRAW,2,2
+416054,2023-05-02,FINISHED,57,Arsenal FC,61,Chelsea FC,Arsenal FC,1,3
+416108,2023-05-03,FINISHED,65,Manchester City FC,563,West Ham United FC,Manchester City FC,0,3
+416109,2023-05-03,FINISHED,64,Liverpool FC,63,Fulham FC,Liverpool FC,0,1
+416111,2023-05-04,FINISHED,397,Brighton & Hove Albion FC,66,Manchester United FC,Brighton & Hove Albion FC,0,1
+416035,2023-05-06,FINISHED,76,Wolverhampton Wanderers FC,58,Aston Villa FC,Wolverhampton Wanderers FC,0,1
+416037,2023-05-06,FINISHED,73,Tottenham Hotspur FC,354,Crystal Palace FC,Tottenham Hotspur FC,0,1
+416040,2023-05-06,FINISHED,65,Manchester City FC,341,Leeds United FC,Manchester City FC,1,2
+416044,2023-05-06,FINISHED,1044,AFC Bournemouth,61,Chelsea FC,Chelsea FC,3,1
+416041,2023-05-06,FINISHED,64,Liverpool FC,402,Brentford FC,Liverpool FC,0,1
+416039,2023-05-07,FINISHED,67,Newcastle United FC,57,Arsenal FC,Arsenal FC,2,0
+416036,2023-05-07,FINISHED,563,West Ham United FC,66,Manchester United FC,West Ham United FC,0,1
+416042,2023-05-08,FINISHED,63,Fulham FC,338,Leicester City FC,Fulham FC,3,5
+416043,2023-05-08,FINISHED,397,Brighton & Hove Albion FC,62,Everton FC,Everton FC,5,1
+416038,2023-05-08,FINISHED,351,Nottingham Forest FC,340,Southampton FC,Nottingham Forest FC,3,4
+416028,2023-05-13,FINISHED,341,Leeds United FC,67,Newcastle United FC,DRAW,2,2
+416025,2023-05-13,FINISHED,340,Southampton FC,63,Fulham FC,Fulham FC,2,0
+416026,2023-05-13,FINISHED,66,Manchester United FC,76,Wolverhampton Wanderers FC,Manchester United FC,0,2
+416030,2023-05-13,FINISHED,354,Crystal Palace FC,1044,AFC Bournemouth,Crystal Palace FC,0,2
+416031,2023-05-13,FINISHED,61,Chelsea FC,351,Nottingham Forest FC,DRAW,2,2
+416033,2023-05-13,FINISHED,58,Aston Villa FC,73,Tottenham Hotspur FC,Aston Villa FC,1,2
+416029,2023-05-14,FINISHED,62,Everton FC,65,Manchester City FC,Manchester City FC,3,0
+416032,2023-05-14,FINISHED,402,Brentford FC,563,West Ham United FC,Brentford FC,0,2
+416034,2023-05-14,FINISHED,57,Arsenal FC,397,Brighton & Hove Albion FC,Brighton & Hove Albion FC,3,0
+416027,2023-05-15,FINISHED,338,Leicester City FC,64,Liverpool FC,Liverpool FC,3,0
+416137,2023-05-18,FINISHED,67,Newcastle United FC,397,Brighton & Hove Albion FC,Newcastle United FC,1,4
+416017,2023-05-20,FINISHED,73,Tottenham Hotspur FC,402,Brentford FC,Brentford FC,3,1
+416015,2023-05-20,FINISHED,76,Wolverhampton Wanderers FC,62,Everton FC,DRAW,1,1
+416021,2023-05-20,FINISHED,64,Liverpool FC,58,Aston Villa FC,DRAW,1,1
+416022,2023-05-20,FINISHED,63,Fulham FC,354,Crystal Palace FC,DRAW,2,2
+416024,2023-05-20,FINISHED,1044,AFC Bournemouth,66,Manchester United FC,Manchester United FC,1,0
+416018,2023-05-20,FINISHED,351,Nottingham Forest FC,57,Arsenal FC,Nottingham Forest FC,0,1
+416016,2023-05-21,FINISHED,563,West Ham United FC,341,Leeds United FC,West Ham United FC,1,3
+416023,2023-05-21,FINISHED,397,Brighton & Hove Albion FC,340,Southampton FC,Brighton & Hove Albion FC,1,3
+416020,2023-05-21,FINISHED,65,Manchester City FC,61,Chelsea FC,Manchester City FC,0,1
+416019,2023-05-22,FINISHED,67,Newcastle United FC,338,Leicester City FC,DRAW,0,0
+416071,2023-05-24,FINISHED,397,Brighton & Hove Albion FC,65,Manchester City FC,DRAW,1,1
+416066,2023-05-25,FINISHED,66,Manchester United FC,61,Chelsea FC,Manchester United FC,1,4
+416005,2023-05-28,FINISHED,340,Southampton FC,64,Liverpool FC,DRAW,4,4
+416006,2023-05-28,FINISHED,66,Manchester United FC,63,Fulham FC,Manchester United FC,1,2
+416007,2023-05-28,FINISHED,338,Leicester City FC,563,West Ham United FC,Leicester City FC,1,2
+416008,2023-05-28,FINISHED,341,Leeds United FC,73,Tottenham Hotspur FC,Tottenham Hotspur FC,4,1
+416009,2023-05-28,FINISHED,62,Everton FC,1044,AFC Bournemouth,Everton FC,0,1
+416010,2023-05-28,FINISHED,354,Crystal Palace FC,351,Nottingham Forest FC,DRAW,1,1
+416011,2023-05-28,FINISHED,61,Chelsea FC,67,Newcastle United FC,DRAW,1,1
+416012,2023-05-28,FINISHED,402,Brentford FC,65,Manchester City FC,Brentford FC,0,1
+416013,2023-05-28,FINISHED,58,Aston Villa FC,397,Brighton & Hove Albion FC,Aston Villa FC,1,2
+416014,2023-05-28,FINISHED,57,Arsenal FC,76,Wolverhampton Wanderers FC,Arsenal FC,0,5
